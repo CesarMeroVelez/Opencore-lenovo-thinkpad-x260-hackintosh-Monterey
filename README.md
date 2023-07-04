@@ -11,7 +11,7 @@ all credits go to https://dortania.github.io/OpenCore-Install-Guide/
 if you need help to make your hackintosh work and you need to contact me to make your paid hackintosh, you can contact me by telegram https://t.me/mr_r1z3nt0sh
 
 <p>
-  <a href="https://www.paypal.me/AbdennourT/10">
-      <img src="[https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif](https://github.com/andreostrovsky/donate-with-paypal/blob/master/blue.svg)https://github.com/andreostrovsky/donate-with-paypal/blob/master/blue.svg" alt="paypal">
+  <a href="https://www.paypal.me/alejondro10pb/20">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
