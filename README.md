@@ -13,7 +13,7 @@ If you are thinking of making a hackintosh with this model you can take the efi 
 
 <p>
   <a href="https://www.paypal.me/alejondro10pb/20">
-      <img src="[https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif](https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg)" alt="paypal">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
 
