@@ -9,3 +9,9 @@ If you are thinking of making a hackintosh with this model you can take the efi 
 all credits go to https://dortania.github.io/OpenCore-Install-Guide/
 
 if you need help to make your hackintosh work and you need to contact me to make your paid hackintosh, you can contact me by telegram https://t.me/mr_r1z3nt0sh
+
+<p>
+  <a href="https://www.paypal.me/AbdennourT/10">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
