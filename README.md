@@ -19,7 +19,7 @@ If you are thinking of making a hackintosh with this model you can take the efi 
 # I can keep updating this project with your help
 
 <p>
-  <a href="https://www.paypal.me/alejondro10pb">
+  <a href="https://www.paypal.me/alejondro10pb/10">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
