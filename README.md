@@ -1,4 +1,4 @@
-# lenovo-thinkpad-x260-hackintosh-monterey
+# Opencore lenovo-thinkpad-x260-hackintosh Monterey
 Functional efi for lenovo x260 laptop, working with monterey 12.6.7
 
 ## Specs
