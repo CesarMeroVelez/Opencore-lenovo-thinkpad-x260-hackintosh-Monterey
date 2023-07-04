@@ -20,5 +20,5 @@ If you are thinking of making a hackintosh with this model you can take the efi 
 if you need help to make your hackintosh work and you need to contact me to make your paid hackintosh, you can contact me by telegram https://t.me/mr_r1z3nt0sh
 
 
-# all credits go to 
+# all credits
 https://dortania.github.io/OpenCore-Install-Guide/
