@@ -6,7 +6,7 @@ Efi created only for this model, I do not recommend the use in other models.
 If you are thinking of making a hackintosh with this model you can take the efi and try it, but I am not responsible for any type of use that is going to be given to it.
 
 
-all credits go to https://dortania.github.io/OpenCore-Install-Guide/
+
 
 
 # I can keep updating this project with your help
@@ -18,3 +18,7 @@ all credits go to https://dortania.github.io/OpenCore-Install-Guide/
 </p>
 
 if you need help to make your hackintosh work and you need to contact me to make your paid hackintosh, you can contact me by telegram https://t.me/mr_r1z3nt0sh
+
+
+# all credits go to 
+https://dortania.github.io/OpenCore-Install-Guide/
